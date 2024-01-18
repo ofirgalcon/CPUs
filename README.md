@@ -22,4 +22,4 @@ Database:
 * perflevel1_l1icachesize - bigint - L1 Instruction Cache
 * perflevel1_l1dcachesize - bigint - L1 Data Cache
 * perflevel1_l2cachesize - bigint - L2 Cache
-* perflevel1_l3cachesize - bigint - L3 Cac
+* perflevel1_l3cachesize - bigint - L3 Cache
