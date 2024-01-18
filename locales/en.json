@@ -1,0 +1,44 @@
+{
+    "column": {
+        "brand_string": "CPUs",
+        "physicalcpu": "Cores",
+        "logicalcpu": "Logical Cores",
+        "perflevel0_name": "Core Type",
+        "perflevel0_physicalcpu": "Type 1 Cores",
+        "perflevel0_l1icachesize": "L1 Instruction Cache",
+        "perflevel0_l1dcachesize": "L1 Data Cache",
+        "perflevel0_l2cachesize": "L2 Cache",
+        "perflevel0_l3cachesize": "L3 Cache",
+        "perflevel1_name": "Core Type",
+        "perflevel1_physicalcpu": "Type 2 Cores",
+        "perflevel1_l1icachesize": "L1 Instruction Cache",
+        "perflevel1_l1dcachesize": "L1 Data Cache",
+        "perflevel1_l2cachesize": "L2 Cache",
+        "perflevel1_l3cachesize": "L3 Cache"
+    },
+    "listing": {
+        "title": "CPUs",
+        "perflevel0_physicalcpu": "Cores"
+    },
+    "report": {
+        "title": "CPUs"
+    },
+    "title": "CPUs",
+    "widget": {
+        "brand_string_title": "CPUs",
+        "physicalcpu_title": "Cores",
+        "logicalcpu_title": "Logical Cores",
+        "perflevel0_name_title": "Core Type",
+        "perflevel0_physicalcpu_title": "Type 1 Cores",
+        "perflevel0_l1icachesize_title": "L1 Instruction Cache",
+        "perflevel0_l1dcachesize_title": "L1 Data Cache",
+        "perflevel0_l2cachesize_title": "L2 Cache",
+        "perflevel0_l3cachesize_title": "L3 Cache",
+        "perflevel1_name_title": "Core Type",
+        "perflevel1_physicalcpu_title": "Type 2 Cores",
+        "perflevel1_l1icachesize_title": "L1 Instruction Cache",
+        "perflevel1_l1dcachesize_title": "L1 Data Cache",
+        "perflevel1_l2cachesize_title": "L2 Cache",
+        "perflevel1_l3cachesize_title": "L3 Cache"
+    }
+}

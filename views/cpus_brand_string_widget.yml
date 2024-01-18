@@ -1,0 +1,8 @@
+type: scrollbox
+widget_id: cpus-brand_string-scrollbox-widget
+api_url: /module/cpus/get_list/brand_string
+i18n_title: cpus.widget.brand_string_title
+icon: fa-microchip
+listing_link: /show/listing/cpus/cpus
+search_key: label
+badge: count

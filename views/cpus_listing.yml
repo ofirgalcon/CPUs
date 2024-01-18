@@ -1,0 +1,49 @@
+i18n_title: cpus.listing.title
+not_null_column: brand_string
+icon: fa-shield
+js_link: module/cpus/js/cpus
+table:
+    -   column: machine.computer_name
+        i18n_header: listing.computername
+        formatter: clientDetail
+        tab_link: cpus
+    -   column: reportdata.serial_number
+        i18n_header: serial
+    -   column: cpus.brand_string
+        i18n_header: cpus.column.brand_string
+    -   column: cpus.physicalcpu
+        i18n_header: cpus.column.physicalcpu
+    -   column: cpus.logicalcpu
+        i18n_header: cpus.column.logicalcpu
+    -   column: cpus.perflevel0_name
+        i18n_header: cpus.column.perflevel0_name
+    -   column: cpus.perflevel0_physicalcpu
+        i18n_header: cpus.column.perflevel0_physicalcpu
+    -   column: cpus.perflevel0_l1icachesize
+        i18n_header: cpus.column.perflevel0_l1icachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel0_l1dcachesize
+        i18n_header: cpus.column.perflevel0_l1dcachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel0_l2cachesize
+        i18n_header: cpus.column.perflevel0_l2cachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel0_l3cachesize
+        i18n_header: cpus.column.perflevel0_l3cachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel1_name
+        i18n_header: cpus.column.perflevel1_name
+    -   column: cpus.perflevel1_physicalcpu
+        i18n_header: cpus.column.perflevel1_physicalcpu
+    -   column: cpus.perflevel1_l1icachesize
+        i18n_header: cpus.column.perflevel1_l1icachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel1_l1dcachesize
+        i18n_header: cpus.column.perflevel1_l1dcachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel1_l2cachesize
+        i18n_header: cpus.column.perflevel1_l2cachesize
+        formatter: memoryFormatter
+    -   column: cpus.perflevel1_l3cachesize
+        i18n_header: cpus.column.perflevel1_l3cachesize
+        formatter: memoryFormatter

@@ -1,0 +1,15 @@
+client_tabs:
+    cpus:
+        view: cpus_tab
+        i18n: cpus.title
+listings:
+    cpus:
+        view: cpus_listing
+        i18n: cpus.listing.title
+reports:
+    cpus:
+        view: cpus_report
+        i18n: cpus.report.title
+widgets:
+    cpus_brand_string:
+        view: cpus_brand_string_widget
