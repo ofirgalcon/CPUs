@@ -18,12 +18,15 @@ class Cpus_model extends Eloquent
       'perflevel0_l1icachesize',
       'perflevel0_l1dcachesize',
       'perflevel0_l2cachesize',
+      'perflevel0_cpusperl2',
+      'perflevel0_cpusperl3',
       'perflevel0_l3cachesize',
       'perflevel1_name',
       'perflevel1_physicalcpu',
       'perflevel1_l1icachesize',
       'perflevel1_l1dcachesize',
       'perflevel1_l2cachesize',
+      'perflevel1_cpusperl2',
       'perflevel1_l3cachesize',
 
     ];

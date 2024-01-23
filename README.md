@@ -23,3 +23,6 @@ Database:
 * perflevel1_l1dcachesize - bigint - L1 Data Cache
 * perflevel1_l2cachesize - bigint - L2 Cache
 * perflevel1_l3cachesize - bigint - L3 Cache
+* perflevel0_cpusperl2 - int - Type 1 cores per L2 Cache
+* perflevel1_cpusperl2 - int - Type 1 cores per L2 Cache
+* perflevel0_cpusperl3 - int - Type 0 cores per L3 Cache

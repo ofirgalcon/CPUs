@@ -14,7 +14,10 @@
         "perflevel1_l1icachesize": "L1 Instruction Cache",
         "perflevel1_l1dcachesize": "L1 Data Cache",
         "perflevel1_l2cachesize": "L2 Cache",
-        "perflevel1_l3cachesize": "L3 Cache"
+        "perflevel1_l3cachesize": "L3 Cache",
+        "perflevel0_cpusperl2": "CPUs per L2",
+        "perflevel0_cpusperl3": "CPUs per L3",
+        "perflevel1_cpusperl2": "CPUs per L2"
     },
     "listing": {
         "title": "CPUs",
